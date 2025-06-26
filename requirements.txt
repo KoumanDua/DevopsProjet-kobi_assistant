@@ -2,4 +2,3 @@ pandas
 scikit-learn
 lime
 streamlit
-pickle
